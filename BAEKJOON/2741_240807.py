@@ -21,6 +21,9 @@ number = input()
 while number == '0 0':
     print(int(number[0])+int(number[-1]))
 
+# if number != '0 0':
+
+
 
 
 # 1 1
